@@ -1,1 +1,2 @@
 # odin-recipes
+made to demonstrate basic HTML skills from the foundations portion of TOP.  Within this project, skills such as writing the script for the webpage with simplistic elements will be demonstrated along with commit format practice.
